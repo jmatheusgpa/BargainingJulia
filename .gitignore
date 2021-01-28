@@ -1,2 +1,7 @@
 
 *.ipynb
+*.html
+statprof/flamegraph.svg
+statprof/statprofiler.css
+data_clusters.csv
+*.csv
