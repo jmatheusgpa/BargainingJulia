@@ -1,8 +1,20 @@
 
-*.ipynb
 *.html
 statprof/flamegraph.svg
 statprof/statprofiler.css
 data_clusters.csv
 *.csv
 *.xlsx
+.ipynb_checkpoints/BargainingJulia-checkpoint.ipynb
+.ipynb_checkpoints/BargainingJulia_MRE_pkt-checkpoint.ipynb
+.ipynb_checkpoints/BargainingJulia_MRE_respond_payment-checkpoint.ipynb
+.ipynb_checkpoints/Graph_tests-checkpoint.ipynb
+.ipynb_checkpoints/Graph_tests_Gadfly-checkpoint.ipynb
+.ipynb_checkpoints/Kmeans-checkpoint.ipynb
+.ipynb_checkpoints/Simmulated Annealing_study-checkpoint.ipynb
+.ipynb_checkpoints/solve_model-checkpoint.ipynb
+.ipynb_checkpoints/solve_simulation-checkpoint.ipynb
+BargainingJulia_MRE_pkt.ipynb
+BargainingJulia_MRE_respond_payment.ipynb
+Graph_tests.ipynb
+Graph_tests_Gadfly.ipynb
