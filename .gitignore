@@ -1,5 +1,6 @@
 
-
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
 *.html
 statprof/flamegraph.svg
 statprof/statprofiler.css
